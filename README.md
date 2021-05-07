@@ -18,8 +18,6 @@
 <p> Navegue por todos nossos produtos em catálogo. </p>
 <p> Compre sem sair de casa. </p>
 
-<img src="ctc1.jpg" alt="produtos">
-
 <Table>
     <table border="1">
     <tr>
@@ -67,6 +65,10 @@
     </li>
 </ul>
 
+<img src="notebook.png" alt="produtos">
+<img src="tablet.png" alt="produtos">
+<img src="smartphone.png" alt="produtos">
+
 <form action="">
     <h3>Qual o seu nome?</h3>
     <label for="">Primeiro Nome:</label></br>
@@ -104,6 +106,9 @@
 
  <h3>Mais informações:</h3>
 
-<a href="http://127.0.0.1:5500/biografia.html"target="popupwindow" onclick='window.open("site","popupwindow","scrollbarls=yes,width=550,height=520");return true'>Quem é Carl F . </a>
+<a href="http://127.0.0.1:5500/biografia.html"target="popupwindow" onclick='window.open("site","popupwindow","scrollbarls=yes,width=550,height=520");return true'>Quem é Carl F . </a> </br>
+
+<a href="http://127.0.0.1:5500/Aba.html"target="popupwindow" onclick='window.open("site","popupwindow","scrollbarls=yes,width=550,height=520");return true'>Show de Prêmios . </a> </br>
+
 </body>
 </html>
